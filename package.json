@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "tf:init": "cd src; terraform init",
+    "tf:plan": "cd src; terraform plan",
+    "tf:apply": "cd src; terraform apply"
   },
   "repository": {
     "type": "git",

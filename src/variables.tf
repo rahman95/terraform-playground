@@ -7,8 +7,3 @@ variable "aws_profile" {
   type = "string"
   default = "default"
 }
-
-variable "aws_max_retries" {
-  type = "number"
-  default = 1
-}
