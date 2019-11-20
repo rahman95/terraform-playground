@@ -1,5 +1,7 @@
-# Terraform
+# Terraform Playground 🏗🚀
 Terraform is used to `create`, `manage`, and `update infrastructure resources` such as `physical machines`, `VMs`, `network switches`, `containers`, and more. Terraform is an `IaC` tool which stands for `Infrastructure as code` similiar to CloudFormation by Amazon.
+
+This is a simple playground, I'll be using to provision some common services on AWS, my cloud provider of choice.
 
 ## Prerequisite
 - Make sure you have set up Terraform CLI on your machine
