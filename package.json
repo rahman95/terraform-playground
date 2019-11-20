@@ -6,7 +6,8 @@
   "scripts": {
     "tf:init": "cd src; terraform init",
     "tf:plan": "cd src; terraform plan",
-    "tf:apply": "cd src; terraform apply"
+    "tf:apply": "cd src; terraform apply",
+    "tf:destroy": "cd src; terraform destroy"
   },
   "repository": {
     "type": "git",
